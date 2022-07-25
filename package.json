@@ -1,0 +1,22 @@
+{
+  "name": "helm-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kocyigitkim/helm-charts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kocyigitkim/helm-charts/issues"
+  },
+  "homepage": "https://github.com/kocyigitkim/helm-charts#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.9"
+  }
+}
