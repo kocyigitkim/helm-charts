@@ -16,4 +16,4 @@ entries:
         url: "https://github.com/Cranna-App"
     name: kubeaccess
     urls:
-      - 
+      - "https://github.com/kocyigitkim/helm-charts/raw/main/build/kubeaccess.zip"
